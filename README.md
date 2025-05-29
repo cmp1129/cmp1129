@@ -8,13 +8,11 @@
 </div>
 
 ## About Me 🤍
-- 💻 **Web Developer**
-- 📊 Passionate about **QA**, **Programming**, and **Web Design**
-- ✏️ In my spare time, I enjoy being a **Writer**
-- 🏆 **Winner** of the **ARGÓ Award 2021** (UAB) and **CREATIC Award 2021** (TCM)
-- 🎓 **Marketing & Sales Degree**
-- ✨ Always looking to learn and grow in the tech field
+I’m a Backend Developer at a SaaS company, building scalable systems that power seamless user experiences. My core expertise lies in backend development, but I love diving into frontend and design when needed—thanks to my Web Applications Developer (DAW) degree and a Fullstack Development Bootcamp that expanded my toolkit. (Feel free to explore my GitHub for a mix of both).
 
+With a background in digital marketing (SEO, SEM, and commercial strategy), I bring a business-minded approach to tech, ensuring solutions align with user and company needs. My experience in customer service has sharpened my ability to communicate complex ideas into simple terms.
+
+Let’s cook… exceptional software! 💻👨‍🍳
 <br>
 
 ## Projects 🤍
